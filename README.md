@@ -1,2 +1,12 @@
-# cybersecurity-journey-
-Documenting my journey of learning cybersecurity, networking, Linux, and SOC analysis 🔐
+# Cybersecurity Journey
+
+Hi, I'm Soumojit 👋  
+I'm learning cybersecurity step by step.
+
+## Current Focus:
+- Networking
+- Linux
+- SOC Analysis
+
+## Goal:
+Become a SOC Analyst & Pentester 🔐
