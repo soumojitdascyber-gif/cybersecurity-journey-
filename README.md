@@ -60,3 +60,33 @@ A Distributed Denial of Service (DDoS) attack uses multiple systems (botnet) to 
 
 ### 📌 Conclusion
 Understanding DoS & DDoS is important for building strong defense in cybersecurity.
+# Cybersecurity Learning Journey 🚀
+
+## 📅 Day 1: [Topic Name]
+- Short explanation
+- Key points
+- Notes
+
+---
+
+## 📅 Day 2: DDoS Attack Types
+
+### 🌊 Volumetric Attack
+- Targets bandwidth
+- Massive traffic (Gbps/Tbps)
+- Example: UDP Flood, DNS Amplification
+
+### 🤯 Protocol Attack
+- Targets connection/state table
+- Exploits TCP/IP behavior
+- Example: SYN Flood
+
+### ☠️ Application Layer Attack
+- Targets server logic (Layer 7)
+- Looks like legitimate users
+- Example: HTTP Flood, Slowloris
+
+---
+
+## 🔑 Key Insight
+> DDoS = Resource Exhaustion (Bandwidth + State + Application)
