@@ -72,5 +72,5 @@ Same goal — Denial of Service.
 
 ## 👨‍💻 Author
 
-Soumyajit Das  
-Future SOC Analyst
+Soumojit Das  
+Future SOC Analyst & pentester 
