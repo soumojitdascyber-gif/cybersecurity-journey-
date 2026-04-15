@@ -85,5 +85,5 @@ Make the system unavailable
 
 ## 👨‍💻 Author
 
-Soumyajit Das  
-Future SOC Analyst
+Soumojit Das  
+Future SOC Analyst & pentester.
