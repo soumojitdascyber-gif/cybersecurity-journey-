@@ -83,5 +83,5 @@ Unauthorized access to system
 
 ## 👨‍💻 Author
 
-Soumyajit Das  
-Future SOC Analyst
+Soumojit Das 
+Future SOC Analyst & pentester.
