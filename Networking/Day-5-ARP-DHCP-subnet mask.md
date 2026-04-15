@@ -115,5 +115,5 @@ Device connects to WiFi → Gets IP automatically
 
 ## 👨‍💻 Author
 
-Soumyajit Das  
+Soumojit Das  
 Future SOC Analyst
