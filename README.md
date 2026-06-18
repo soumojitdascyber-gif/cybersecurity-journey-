@@ -1,92 +1,34 @@
-# Cybersecurity Journey
+# Hi there, I'm Soumojit Das! 👋
 
-Hi, I'm Soumojit 👋  
-I'm learning cybersecurity step by step.
+## 🥷 Cyber Security Enthusiast | Aspiring SOC Analyst (Blue Team)
 
-## Current Focus:
-- Networking
-- Linux
-- SOC Analysis
+Driven by a **1% Daily Growth** mindset, I am a self-taught InfoSec enthusiast deeply passionate about Threat Detection, Incident Response, and Windows/Network Internals. I specialize in analyzing raw logs, understanding attacker methodologies, and mapping threats to the **MITRE ATT&CK Framework**. 
 
-## Goal:
-Become a SOC Analyst & Pentester 🔐
-
-# Connect with me on LinkedIn📨:  
-https://www.linkedin.com/in/soumojit-das-2bb6553bb
----
-
-## 📅 Day 1 - DoS & DDoS Basics
-
-### 📌 What is DoS?
-A Denial of Service (DoS) attack is used to make a system unavailable by overwhelming it with traffic from a single source.
-
-### 📌 What is DDoS?
-A Distributed Denial of Service (DDoS) attack uses multiple systems (botnet) to flood a target and make it unavailable.
+I believe that true engineering isn't about expensive setups; it's about raw logic, relentless grit, and mastering the architecture from the ground up.
 
 ---
 
-### ⚡ Key Differences
-
-| Feature   | DoS        | DDoS            |
-|----------|-----------|-----------------|
-| Source   | Single    | Multiple        |
-| Power    | Low       | Very High       |
-| Detection| Easy      | Difficult       |
+### 🛡️ What I Am Mastering (My Tech Stack & Focus)
+* **Core Blue Teaming:** SOC L1/L2 Operations, Incident Triage, Playbook Execution, Phishing Email Analysis (SPF/DKIM/DMARC).
+* **Network & Telemetry:** TCP/IP Protocols, TCP Flags, Deep Packet Analysis, DNS Tunneling, and Exfiltration Detection.
+* **OS Internals & Anomalies:** Windows Process Lineage (`lsass.exe`, `svchost.exe`, `rundll32.exe`), Event ID analysis (4688, 4720, 1102), and Linux fundamentals.
+* **Frameworks & Methods:** MITRE ATT&CK Mapping, Living off the Land (LOTL) detection, Process Injection, and Defense Evasion tactics.
 
 ---
 
-### 🔍 Common Attacks
-- SYN Flood  
-- UDP Flood  
-- HTTP Flood  
-- Amplification Attacks (DNS, NTP, SNMP)  
+### 📁 Documented Proof of Work (My Repositories)
+I systematically document my practical knowledge and deep-dive threat analysis into structured playbooks:
+* 🔹 **MITRE_ATT&CK:** Step-by-step documentation of adversary tactics (Initial Access to Exfiltration).
+* 🔹 **Networking:** Deep dives into TCP Handshakes, Flags, and Protocol Anomaly Detection.
+* 🔹 **Phishing-Analysis:** Real-world raw email header analysis and defense mechanics.
+* 🔹 **Attack-Detection:** Deep logic breakdowns for Brute-Force, DoS/DDoS, and MitM encounters.
 
 ---
 
-### 🛡️ Detection
-- Sudden traffic spike  
-- High requests from same IP  
-- Multiple IP flood  
+### 🌐 Connect with Me
+Let's network, collaborate, or talk about threat hunting!
+
+* **LinkedIn:** [Soumojit Das on LinkedIn](https://www.linkedin.com/in/soumojit-das-2bb6553bb)
 
 ---
-
-### 🔐 Prevention
-- Rate limiting  
-- Firewall  
-- Load balancing  
-- Anti-DDoS protection  
-
----
-
-### 📌 Conclusion
-Understanding DoS & DDoS is important for building strong defense in cybersecurity.
-# Cybersecurity Learning Journey 🚀
-
-## 📅 Day 1: [Topic Name]
-- Short explanation
-- Key points
-- Notes
-
----
-
-## 📅 Day 2: DDoS Attack Types
-
-### 🌊 Volumetric Attack
-- Targets bandwidth
-- Massive traffic (Gbps/Tbps)
-- Example: UDP Flood, DNS Amplification
-
-### 🤯 Protocol Attack
-- Targets connection/state table
-- Exploits TCP/IP behavior
-- Example: SYN Flood
-
-### ☠️ Application Layer Attack
-- Targets server logic (Layer 7)
-- Looks like legitimate users
-- Example: HTTP Flood, Slowloris
-
----
-
-## 🔑 Key Insight
-> DDoS = Resource Exhaustion (Bandwidth + State + Application)
+⚡ *"Don't limit your challenges. Challenge your limits."*
