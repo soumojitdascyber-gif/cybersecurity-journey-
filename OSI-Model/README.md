@@ -1,6 +1,8 @@
 # OSI Model
 
-This folder contains complete OSI Model notes from a SOC Analyst perspective.
+The **Open Systems Interconnection (OSI) Model** is a conceptual framework that explains how data travels between devices over a network. It divides network communication into **seven layers**, each with a specific role and responsibility.
+
+This folder contains detailed notes for each OSI layer, including its purpose, responsibilities, protocols, communication process, and real-world examples.
 
 ## Contents
 
@@ -11,3 +13,5 @@ This folder contains complete OSI Model notes from a SOC Analyst perspective.
 - Layer 5 – Session Layer
 - Layer 6 – Presentation Layer
 - Layer 7 – Application Layer
+
+> Understanding the OSI Model provides a strong foundation for networking, cybersecurity, and SOC analysis.
